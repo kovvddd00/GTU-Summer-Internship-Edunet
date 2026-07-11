@@ -82,6 +82,34 @@ Work Completed
 - Performed basic statistical analysis and correlation.
 - Summarised the findings.
 ------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+**Assignment: 10-07-2026**
+
+Green Skilling & Sustainability Assignment
+
+Tasks Completed
+
+- Imported the Climate & Energy dataset using Pandas.
+- Explored the dataset using:
+  - `head()`
+  - `info()`
+  - `describe()`
+  - `shape`
+  - `columns`
+- Analysed relationships between different climate and energy-related features.
+- Created a new feature (`Carbon_Intensity`) through feature engineering.
+- Identified and handled missing values using the median for numerical columns and `"Unknown"` for categorical columns.
+- Visualized the dataset using Seaborn:
+  - Histogram
+  - Box Plot
+  - Scatter Plot
+  - Count Plot
+  - Correlation Heatmap
+- Applied **StandardScaler** to numerical columns.
+- Applied **LabelEncoder** to categorical columns.
+- Saved the cleaned and processed dataset.
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 Author
 
